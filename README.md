@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile-banner.png" alt="Williams Etsemitan - Administrative & Executive Support Professional" width="100%">
+</p>
+
 # Hello, I'm an Administration & Operations Professional 👋
 
 ### Administrative Support | Virtual Assistance | Operations Coordination | Remote Work
