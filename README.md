@@ -12,30 +12,57 @@ I am an administrative and operations professional with experience in business o
 
 I enjoy creating organised systems, improving administrative processes, managing information, and helping businesses operate efficiently.
 
-### 💼 Core Competencies
 
-- Administrative Support & Office Management
+## 💼 Professional Skills
+
+### Administrative & Executive Support
+- Executive Assistance and Administrative Support
 - Calendar and Meeting Coordination
+- Email and Correspondence Management
 - Document Preparation and Management
 - Data Entry and Record Keeping
-- Email and Correspondence Management
-- Microsoft Excel and Reporting
-- Google Workspace
-- Project and Task Coordination
-- Customer Service and Communication
-- Inventory and Operations Support
+- Travel and Appointment Coordination
 
-### 🛠️ Tools & Technologies
+### Business Operations & Coordination
+- Daily Operations Management
+- Workflow and Task Coordination
+- Customer Relationship Management
+- Customer Service and Complaint Resolution
+- Order Processing and Follow-up
+- Performance Monitoring and Reporting
 
-- Microsoft Word
-- Microsoft Excel
-- Microsoft PowerPoint
-- Google Docs, Sheets and Drive
-- Canva
-- Zoom
-- Microsoft Teams
-- GitHub
-- Make.com
+### Reporting & Data Management
+- Microsoft Excel Reporting
+- Data Organisation and Record Management
+- Spreadsheet Management
+- KPI Tracking and Performance Reports
+- Business Documentation
+
+### Communication & Professional Skills
+- Written and Verbal Communication
+- Time Management and Prioritisation
+- Attention to Detail
+- Problem-Solving
+- Confidentiality and Professionalism
+- Remote Team Collaboration
+
+## 🛠️ Tools & Technology
+
+| Category | Tools |
+|---|---|
+| Office Productivity | Microsoft Word, Excel, PowerPoint |
+| Collaboration | Google Workspace, Zoom, Microsoft Teams |
+| Design | Canva |
+| Documentation | Microsoft Office, Google Docs, Google Sheets |
+| Workflow Management | Task Trackers, Administrative Reporting Systems |
+
+## 🌍 Career Interests
+
+- Remote Executive Assistant
+- Virtual Assistant
+- Administrative Assistant
+- Operations Coordinator
+- Customer Success Support
 
 ### 📂 My Portfolio Projects
 
